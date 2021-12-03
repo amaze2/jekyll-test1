@@ -1,7 +1,7 @@
 ---
 layout: page
 excerpt: "About Me..."
-menutitle: Home
+title: Home
 menuorder: 1
 ---
 
